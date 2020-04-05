@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ![](images/hola_logo_os_sm.png)
+=======
+![](Images/hola_logo_os_sm.png)
+
+>>>>>>> 4c94c363ca27baeeb0f5bed5a7c42c935fc13bcf
 
 # Hello!-¡Hola!
 Hola: A test program for linking with my Docker Hub Account to show Bash echo for say hello in Docker container and auto build images!
