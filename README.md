@@ -1,4 +1,4 @@
-![](images/hola_logo_os_sm.png)
+![](Images/hola_logo_os_sm.png)
 
 
 # Hello!-¡Hola!
