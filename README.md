@@ -12,6 +12,12 @@ CentOS 7
 git clone https://github.com/krailerkm/hallo
 ```
 
+Docker
+```
+docker pull krailerkm/hello:release-1.0.1
+docker run -it krailerkm/hello:release-1.0.1
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
