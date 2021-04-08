@@ -1,6 +1,6 @@
 ![](Images/hola_logo_os_sm.png)
 
-# Hello!-¡Hola!
+# Hello!-¡Hola! :)
 Hola: A test program for linking with my Docker Hub Account to show Bash echo for say hello in Docker container and auto build images!
 
 
